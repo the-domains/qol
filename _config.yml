@@ -1,0 +1,14 @@
+layout_spectrum: 0.7372719987761229
+typography_spectrum: 0.7811433947645128
+color:
+  brandStrength: 0.21451230417005718
+  lightness: 0.7951801081653684
+  saturation: 0.902276141801849
+  rhythmicContrast: 0.10098804533481598
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: QOL
